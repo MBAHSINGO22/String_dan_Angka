@@ -7,12 +7,12 @@ Proyek sederhana untuk analisis string dan pemrosesan angka.
 
 ## 📖 Deskripsi Proyek
 
-**String_dan_Angka** adalah proyek pembelajaran Python yang berisi dua skrip untuk tugas pemrosesan data sederhana:
+**String_dan_Angka**  berisi dua code untuk tugas pemrosesan data sederhana:
 
 - 📊 **Pemeriksa String**: Menganalisis input pengguna untuk menentukan apakah itu kata tunggal atau kalimat, serta menghitung jumlah kata.  
 - 🔢 **Pembuat Kelipatan 3 Ganjil**: Menghasilkan kelipatan 3 yang ganjil hingga angka yang ditentukan pengguna.
 
-Proyek ini terdiri dari dua skrip Python (`No1.py` dan `No2.py`) yang mudah dijalankan. Cocok untuk pemula yang ingin mempelajari manipulasi string dan pemrosesan angka dengan Python. 🟢
+Proyek ini terdiri dari dua code Python (`No1.py` dan `No2.py`) yang mudah dijalankan. Cocok untuk pemula yang ingin mempelajari manipulasi string dan pemrosesan angka dengan Python. 🟢
 
 ---
 
