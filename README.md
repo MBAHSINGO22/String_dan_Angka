@@ -34,8 +34,7 @@ Utilitas_String_dan_Angka/
 
 
 ## 🟢 Catatan
-
-- Tidak ada dependensi eksternal selain Python 3.x.  
+ 
 - Kedua code menggunakan input/output standar dan tidak memerlukan file tambahan.  
 - `No1.py` memecah string input berdasarkan spasi dan menghitung jumlah kata.  
 - `No2.py` menghasilkan kelipatan 3 ganjil dan menampilkannya dengan pemisah spasi.
