@@ -34,53 +34,6 @@ Utilitas_String_dan_Angka/
 
 ---
 
-## ▶️ Menjalankan Program
-
-### 1. Kloning Repositori:
-
-```bash
-git clone https://github.com/MBAHSINGO22/Utilitas_String_dan_Angka.git
-cd Utilitas_String_dan_Angka
-```
-
-### 2. Pastikan Python Terinstal:
-
-Periksa versi Python:
-
-```bash
-python --version
-```
-
-Jika belum terinstal, unduh dari [python.org](https://www.python.org/).
-
-### 3. Instal Dependensi:
-
-Instal pustaka yang diperlukan dari `requirements.txt`:
-
-```bash
-pip install -r requirements.txt
-```
-
-**Isi `requirements.txt`:**
-```
-# Tidak ada dependensi eksternal yang diperlukan
-```
-
-### 4. Jalankan Skrip Python:
-
-Untuk pemeriksa string:
-
-```bash
-python No1.py
-```
-
-Untuk pembuat kelipatan 3 ganjil:
-
-```bash
-python No2.py
-```
-
----
 
 ## 🟢 Catatan
 
