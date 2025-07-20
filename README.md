@@ -28,8 +28,6 @@ Proyek ini terdiri dari dua skrip Python (`No1.py` dan `No2.py`) yang mudah dija
 Utilitas_String_dan_Angka/
 ├── No1.py                       # 📝 Skrip untuk memeriksa apakah input adalah kata atau kalimat
 ├── No2.py                       # 🔢 Skrip untuk menghasilkan kelipatan 3 ganjil
-├── README.md                    # 📖 Dokumentasi proyek
-├── requirements.txt             # ⚙️ Daftar dependensi Python
 ```
 
 ---
